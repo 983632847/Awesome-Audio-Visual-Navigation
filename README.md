@@ -108,3 +108,13 @@ Audio-Visual Navigation." CVPR (2024).
 - **FAVEN:** Shentong Mo, Shentong_Mo, Kilian Q Weinberger, Marco Pavone, Boyi Li.<br />
   "FAVEN: Fast Audio-Visual Embodied Navigation in 3D Environments." ArXiv (2025).
   [[paper](https://openreview.net/forum?id=48nAxwEyQ0)]
+
+
+## Awesome Repositories for Embodied AI
+- [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
+- [Awesome Vision-Language Navigation](https://github.com/daqingliu/awesome-vln)
+- [Paper List and Resource Repository for Embodied AI](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
+- [awesome-embodied-vla/va/vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
+- [Survey of Vision-and-Language Navigation](https://github.com/zhangyuejoslin/VLN-Survey-with-Foundation-Models)
+- [Thinking-VLN](https://github.com/YicongHong/Thinking-VLN)
+- [Awesome Vision-and-Language Navigation](https://github.com/eric-ai-lab/awesome-vision-language-navigation)

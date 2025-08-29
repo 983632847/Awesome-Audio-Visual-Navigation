@@ -6,6 +6,11 @@
 #### If you like our project, please give us a star ⭐ on this GitHub.
 #### We welcome researchers to submit pull requests and become contributors to this project.
 
+## :fire: Highlights
+![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Audio-Visual-Navigation?icon=github&label=last%20updated&color=green)
+- 2025.08.29: Awesome Audio-Visual Embodied Navigation Project Started.
+
+
 ## Table of Content
 * [Datasets](#datasets)
 * [Papers](#papers)

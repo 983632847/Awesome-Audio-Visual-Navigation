@@ -32,7 +32,7 @@
   [[code](https://github.com/facebookresearch/sound-spaces)]
   [[website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
 
-- **VAR:** Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum.<br />
+- **LLA:** Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum.<br />
   "Look, Listen, and Act: Towards Audio-Visual Embodied Navigation." ICRA (2020).
   [[paper](https://arxiv.org/abs/1912.11684)] 
   [[website](http://avn.csail.mit.edu/)]

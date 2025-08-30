@@ -56,12 +56,6 @@
 
 
 #### 2022
-- **AAVS:** Sagnik Majumder, Ziad Al-Halah, and Kristen Grauman.<br />
-  "Active Audio-Visual Separation of Dynamic Sound Sources." ECCV (2025).
-  [[paper](https://arxiv.org/abs/2202.00850)] 
-  [[code](https://github.com/SAGNIKMJR/active-av-dynamic-separation)]
-[[website](https://vision.cs.utexas.edu/projects/active-av-dynamic-separation/)]
-
 - **SAAVN:** Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu.<br />
   "Sound Adversarial Audio-Visual Navigation." ICLR (2022).
   [[paper](https://openreview.net/pdf?id=NkZq4OEYN-)] 
@@ -92,6 +86,12 @@
 - **K-SAVEN:** Gyan Tatiya, Jonathan Francis, Luca Bondi, Ingrid Navarro, Eric Nyberg, Jivko Sinapov, Jean Oh.<br />
   "Knowledge-driven Scene Priors for Semantic Audio-Visual Embodied Navigation." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2212.11345)] 
+
+- **AAVS:** Sagnik Majumder, Ziad Al-Halah, and Kristen Grauman.<br />
+  "Active Audio-Visual Separation of Dynamic Sound Sources." ECCV (2022).
+  [[paper](https://arxiv.org/abs/2202.00850)] 
+  [[code](https://github.com/SAGNIKMJR/active-av-dynamic-separation)]
+  [[website](https://vision.cs.utexas.edu/projects/active-av-dynamic-separation/)]
 
 #### 2023
 - **SA2GVAN:** Hongcheng Wang*, Yuxuan Wang*, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong*.<br />

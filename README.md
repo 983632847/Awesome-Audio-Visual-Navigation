@@ -72,17 +72,17 @@
   "AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments." NeurIPS (2022).
   [[paper](https://arxiv.org/abs/2210.07940)] 
 
-- **FSAAVN:** Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang.<br />
-  "Pay Self-Attention to Audio-Visual Navigation." BMVC (2022).
-  [[paper](https://arxiv.org/pdf/2210.01353.pdf)] 
-  [[website](https://yyf17.github.io/FSAAVN/index.html)]
-
 - **Dav-Nav:** Abdelrahman Younes, Daniel Honerkamp, Tim Welschehold, Abhinav Valada.<br />
   "Catch Me If You Hear Me: Audio-Visual Navigation in Complex Unmapped Environments with Moving Sounds." IEEE RA-L (2022).
   [[paper](https://arxiv.org/abs/2111.14843)]
   [[code](https://github.com/robot-learning-freiburg/Dav-Nav)]
   [[website](http://dav-nav.cs.uni-freiburg.de/)]
-  
+
+- **FSAAVN:** Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang.<br />
+  "Pay Self-Attention to Audio-Visual Navigation." BMVC (2022).
+  [[paper](https://arxiv.org/pdf/2210.01353.pdf)] 
+  [[website](https://yyf17.github.io/FSAAVN/index.html)]
+
 - **K-SAVEN:** Gyan Tatiya, Jonathan Francis, Luca Bondi, Ingrid Navarro, Eric Nyberg, Jivko Sinapov, Jean Oh.<br />
   "Knowledge-driven Scene Priors for Semantic Audio-Visual Embodied Navigation." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2212.11345)] 

@@ -56,12 +56,6 @@
 
 
 #### 2022
-- **SAAVN:** Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu.<br />
-  "Sound Adversarial Audio-Visual Navigation." ICLR (2022).
-  [[paper](https://openreview.net/pdf?id=NkZq4OEYN-)] 
-  [[code](https://github.com/yyf17/SAAVN/tree/main)]
-  [[website](https://yyf17.github.io/SAAVN)]
-
 - **SoundSpaces 2.0:** Changan Chen*, Carl Schissler*, Sanchit Garg*, Philip Kobernik, Alexander Clegg, Paul Calamia, Dhruv Batra, Philip W Robinson, Kristen Grauman.<br />
   "SoundSpaces 2.0: A Simulation Platform for Visual-Acoustic Learning." NeurIPS (2022).
 [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/3a48b0eaba26ba862220a307a9edb0bb-Paper-Datasets_and_Benchmarks.pdf)] 
@@ -78,6 +72,12 @@
   [[code](https://github.com/robot-learning-freiburg/Dav-Nav)]
   [[website](http://dav-nav.cs.uni-freiburg.de/)]
 
+- **SAAVN:** Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu.<br />
+  "Sound Adversarial Audio-Visual Navigation." ICLR (2022).
+  [[paper](https://openreview.net/pdf?id=NkZq4OEYN-)] 
+  [[code](https://github.com/yyf17/SAAVN/tree/main)]
+  [[website](https://yyf17.github.io/SAAVN)]
+  
 - **FSAAVN:** Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang.<br />
   "Pay Self-Attention to Audio-Visual Navigation." BMVC (2022).
   [[paper](https://arxiv.org/pdf/2210.01353.pdf)] 

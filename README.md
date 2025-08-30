@@ -115,6 +115,11 @@ Audio-Visual Navigation." CVPR (2024).
   "CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments." AAAI (2024).
   [[paper](https://arxiv.org/abs/2306.04047)] 
 
+- **AFP:** Changan Chen*, Jordi Ramos*, Anshul Tomar*, Kristen Grauman.<br />
+  "Sim2Real Transfer for Audio-Visual Navigation with Frequency-Adaptive Acoustic Field Prediction." IROS (2024).
+  [[paper](https://arxiv.org/pdf/2405.02821)] 
+  [[website](https://vision.cs.utexas.edu/projects/sim2real/)]
+  
 #### 2025
 - **FAVEN:** Shentong Mo, Shentong_Mo, Kilian Q Weinberger, Marco Pavone, Boyi Li.<br />
   "FAVEN: Fast Audio-Visual Embodied Navigation in 3D Environments." ArXiv (2025).

@@ -26,7 +26,7 @@
 
 ## <a name="papers"></a> Papers
 #### 2020
-- **SoundSpaces:** Changan Chen*, Unnat Jain*, Carl Schissler, Sebastia Vicenc Amengual Gari, Ziad Al-Halah, Vamsi Krishna Ithapu, Philip Robinson, Kristen Grauman.<br />
+- :boom:**SoundSpaces:** Changan Chen*, Unnat Jain*, Carl Schissler, Sebastia Vicenc Amengual Gari, Ziad Al-Halah, Vamsi Krishna Ithapu, Philip Robinson, Kristen Grauman.<br />
   "SoundSpaces: Audio-Visual Navigation in 3D Environments." ECCV (2020).
   [[paper](https://arxiv.org/abs/1912.11474)]
   [[code](https://github.com/facebookresearch/sound-spaces)]

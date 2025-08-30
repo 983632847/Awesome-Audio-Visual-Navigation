@@ -20,20 +20,20 @@
 ## <a name="datasets"></a> Datasets
 | Dataset | Pub. & Date  | WebSite | Introduction |
 |:-----:|:-----:|:-----:|:-----:|
-| [Replica](https://arxiv.org/pdf/1912.11474.pdf)   |  ECCV-2020  |  [Replica](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)  |  18 Scenes, discrete grid (0.5m)  |  
-| [Matterport3D](https://arxiv.org/pdf/1912.11474.pdf)   |  ECCV-2020  |  [Matterport3D](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)  |  85 Scenes, discrete grid (1m) |  
+| [Replica](https://arxiv.org/abs/1912.11474)   |  ECCV-2020  |  [Replica](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)  |  18 Scenes, discrete grid (0.5m)  |  
+| [Matterport3D](https://arxiv.org/abs/1912.11474)   |  ECCV-2020  |  [Matterport3D](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)  |  85 Scenes, discrete grid (1m) |  
 
 
 ## <a name="papers"></a> Papers
 #### 2020
 - **SoundSpaces:** Changan Chen*, Unnat Jain*, Carl Schissler, Sebastia Vicenc Amengual Gari, Ziad Al-Halah, Vamsi Krishna Ithapu, Philip Robinson, Kristen Grauman.<br />
   "SoundSpaces: Audio-Visual Navigation in 3D Environments." ECCV (2020).
-  [[paper](https://arxiv.org/pdf/1912.11474.pdf)] 
-[[website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
+  [[paper](https://arxiv.org/abs/1912.11474)] 
+  [[website]](http://vision.cs.utexas.edu/projects/audio_visual_navigation/)
 
 - **VAR:** Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum.<br />
   "Look, Listen, and Act: Towards Audio-Visual Embodied Navigation." ICRA (2020).
-  [[paper](https://arxiv.org/pdf/1912.11684)] 
+  [[paper](https://arxiv.org/abs/1912.11684)] 
   [[website](http://avn.csail.mit.edu/)]
 
 #### 2021

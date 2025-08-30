@@ -33,7 +33,7 @@
 
 - **VAR:** Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum.<br />
   "Look, Listen, and Act: Towards Audio-Visual Embodied Navigation." ICRA (2020).
-  [[paper](https://arxiv.org/pdf/2012.11583.pdf)] 
+  [[paper](https://arxiv.org/pdf/1912.11684)] 
   [[website](http://avn.csail.mit.edu/)]
 
 #### 2021

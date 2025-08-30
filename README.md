@@ -121,7 +121,7 @@ Audio-Visual Navigation." CVPR (2024).
   [[website](https://vision.cs.utexas.edu/projects/sim2real/)]
   
 #### 2025
-- **FAVEN:** Shentong Mo, Shentong_Mo, Kilian Q Weinberger, Marco Pavone, Boyi Li.<br />
+- **FAVEN:** Shentong Mo, Shentong Mo, Kilian Q Weinberger, Marco Pavone, Boyi Li.<br />
   "FAVEN: Fast Audio-Visual Embodied Navigation in 3D Environments." ArXiv (2025).
   [[paper](https://openreview.net/forum?id=48nAxwEyQ0)]
 

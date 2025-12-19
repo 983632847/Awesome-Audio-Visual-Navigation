@@ -126,7 +126,16 @@ Audio-Visual Navigation." CVPR (2024).
   "FAVEN: Fast Audio-Visual Embodied Navigation in 3D Environments." ArXiv (2025).
   [[paper](https://openreview.net/forum?id=48nAxwEyQ0)]
 
+- **BeDAViN:** Zhanbo Shi, Lin Zhang*, Linfei Li, Ying Shen.<br />
+  "Towards Audio-Visual Navigation in Noisy Environments: A Large-Scale Benchmark Dataset and an Architecture Considering Multiple Sound-Sources." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33608)] 
+  [[code](https://github.com/ZhanboShiAI/ENMuS)]
 
+- **AGVP:** Yi Wang, Yinfeng Yu, Fuchun Sun, Liejun Wang, Wendong Zheng.<br />
+  "Audio-Guided Visual Perception for Audio-Visual Navigation." ICVRV (2025).
+  [[paper](https://arxiv.org/abs/2510.11760v1)] 
+
+  
 ## Awesome Repositories for Embodied AI
 - [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
 - [Awesome Vision-Language Navigation](https://github.com/daqingliu/awesome-vln)
